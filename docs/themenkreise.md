@@ -12,7 +12,8 @@
   - [Märchen, Sagen,  Fantasy](#märchen-sagen-fantasy)
   - [Grafische Literatur/ Graphic Novels](#grafische-literatur-graphic-novels)
   - [Sachbuch /   Sachbücher zu verschiedenen Themen](#sachbuch--sachbücher-zu-verschiedenen-themen)
-
+  
+Liste der Signaturnummern, nach denen die verschiedenen Themenkreise der Jugendbücher in der Bibliothek geordnet sind.
 
 ## Romane  zum Thema Geschichte
 
