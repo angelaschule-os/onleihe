@@ -1,8 +1,9 @@
 # Projekt
 
-Über die Suchmaske der Bibliothek können verschiedene Hauptfelder aufrufen
-werden, nach denen man suchen will: z. B. Autor, Titel, Schlagwort, aber eben
-auch Signatur.
+Über die Suchmaske der Bibliothek
+(<https://angelaschule-osnabrueck.net/iserv/legacy/mlibrary>) können
+verschiedene Hauptfelder aufrufen werden, nach denen man suchen will: z. B.
+Autor, Titel, Schlagwort, aber eben auch Signatur.
 
 Eine Signatur besteht bei uns aus folgenden Bestandteilen: 
 - Genre
