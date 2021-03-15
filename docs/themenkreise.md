@@ -1,4 +1,4 @@
-# Liste der Themenkreise/ Signaturnummern in der Schülerbibliothek der Angelaschule
+# Liste der Themenkreise / Signaturnummern in der Schülerbibliothek der Angelaschule
 
 - [Liste der Themenkreise/ Signaturnummern in der Schülerbibliothek der Angelaschule](#liste-der-themenkreise-signaturnummern-in-der-schülerbibliothek-der-angelaschule)
   - [Romane  zum Thema Geschichte](#romane-zum-thema-geschichte)
@@ -39,7 +39,7 @@ Liste der Signaturnummern, nach denen die verschiedenen Themenkreise der Jugendb
 26 Expeditionen, Entdeckungen
 ```
 
-## Gesellschaftliche und Politische Themens
+## Gesellschaftliche und Politische Themen
 
 ```
 30 Gesellschaftliche und Politische Themens
@@ -78,7 +78,7 @@ Liste der Signaturnummern, nach denen die verschiedenen Themenkreise der Jugendb
 66 Leben in anderen Gesellschaften
 ```
 
-## Romane zum Thema  Berufe
+## Romane zum Thema Berufe
 
 ```
 70 Romane zum Thema  Berufe
@@ -110,7 +110,3 @@ Liste der Signaturnummern, nach denen die verschiedenen Themenkreise der Jugendb
 ```
 
 ## Sachbuch /   Sachbücher zu verschiedenen Themen
-
-
-
-
